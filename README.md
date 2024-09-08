@@ -37,35 +37,4 @@ https://nath-nipan-2022.github.io/green-website-repo/
 | light | ![#f9fef2](https://via.placeholder.com/10/f9fef2?text=+) #f9fef2 |
 
 
-## Features
-
-- Responsive Design
-- CSS Animations
-- Intersection Observer ( JS )
-- Scroll Effect
-- Cool Mobile Sidebar etc...
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at debnathnipan719@gmail.com
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](nipandebnath.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipan-debnath-742025248)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nipandebnth?s=09)
-
-
-## Contact
-📧 Email: debnathnipan719@gmail.com
-
-## Credits
-- Font Awesome Icons
-- Unsplash Images
 - Pexels Images
